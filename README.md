@@ -38,7 +38,7 @@ Every dependency is already configured in the project, so only external configur
 CONFIGURATION
 -------------
 
-* Token should be replaced with the generated token
+* Token should be replaced with the generated token, this is done in the config.properties file, replace "DEMO_KEY" in api_key_value=DEMO_KEY
 
 
 PROJECT EXECUTION GUIDE
