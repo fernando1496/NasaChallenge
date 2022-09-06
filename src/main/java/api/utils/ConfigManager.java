@@ -8,9 +8,6 @@ import java.io.InputStream;
 /**
  * Here we handle all the info related our applications or environment Urls, DataBase Connections,
  * Folder Paths & other Environmental Properties
- *
- * @author jspaciuk
- * created/modified on 26/08/2021
  */
 public class ConfigManager {
 
