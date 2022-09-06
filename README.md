@@ -61,3 +61,7 @@ in th project.
 
 In the case of a test failure, the test must be run isolated to verify if it was a flaky test or a bug
 in the application. Data will be provided by the logs and the reports that are generated after every execution.
+
+How to run
+-------------
+In run configruation selecet TestNG and select the suite/class you want to execute.
